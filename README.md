@@ -7,7 +7,7 @@ Upon opening the website, the table will load with all data entries.
 ### Unfiltered Webpage
 ![Unfiltered Webpage](/static/images/webPage_1.PNG)
 ### Using Filters
-The table can be filtered by entering filter values into the textboxes to the left. The table can be filtered by Date, City, State, Country, and Shape.
+The table can be filtered by entering filter values into the textboxes to the left. The table can be filtered by Date, City, State, Country, and Shape. The filter is case-senstive.
 #### Filter by date (1/5/2010)
 ![Filter by date](/static/images/webPage_filter20100105.PNG)
 
