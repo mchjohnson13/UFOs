@@ -25,8 +25,7 @@ Adding multiple entries to the filter search will filter the table by all of the
 ![Filter by date state shape](/static/images/webPage_filter20100101_ca_triangle.PNG)
 
 ## Summary
-A couple draw backs of this design include no easy way to clear inputs and needing dropdowns or auto-guessing when adding filter inputs.  
+A couple draw backs of this design include:
   
-Having to manually delete the inputs is a little annoying. Including a button to clear all inputs would be a nice addition.  
-  
-Because the filter is case-senstive and a user might not know what cities (etc) are in the table, a dropdown that gives the possible entries would be really helpful.
+* Having to manually delete the inputs or reload the webpage to clear them. Including a button to clear all inputs would be a nice addition.  
+* Because the filter is case-senstive and a user might not know what cities (etc) are in the table, a dropdown that gives the possible entries would be really helpful. Even better, for multiple filters, an updated dropdown with only the available entries in the filtered table would make the user experience much nicer.
